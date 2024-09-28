@@ -27,3 +27,24 @@ This is an Event Ticket Booking System built with **Spring Boot**, providing RES
    ```bash
    git clone https://github.com/khansrk4/event-booking-system.git
    cd event-booking-system
+
+
+2. **Build the Project: Use Maven to build the project and resolve dependencies**:
+   ```bash
+   mvn clean install
+
+
+3. **Run the Application: To start the application, use the following command**:
+   ```bash
+   mvn spring-boot:run
+
+4. **Access the Application: Once the application is running, you can access it at**:
+   ```bash
+   http://localhost:8080
+
+5. **API Documentation: The API documentation is available through Swagger UI. You can access it at**:
+   ```bash
+   http://localhost:8080/swagger-ui.html
+
+
+Let me know if there’s anything else you would like to modify!
