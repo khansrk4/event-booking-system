@@ -46,5 +46,15 @@ This is an Event Ticket Booking System built with **Spring Boot**, providing RES
    ```bash
    http://localhost:8080/swagger-ui.html
 
+6. **Access the H2 Console: Open your web browser and navigate to**:
+   ```bash
+   http://localhost:8080/h2-console
+
+7. **Log In to the H2 Console: You will see a login screen with the following fields**:
+- **JDBC URL: This should be pre-filled. For an H2 in-memory database, it will typically look like:**
+- **Username: The default username is usually sa**
+- **Password: The default password is usually blank (leave it empty).**
+- **Click on "Connect": After filling in the details, click on the "Connect" button to log in to the H2 console.**
+
 
 Let me know if there’s anything else you would like to modify!
